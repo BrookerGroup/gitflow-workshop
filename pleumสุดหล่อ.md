@@ -2,4 +2,4 @@
 
 # ปลื้มแก้บัคแล้วครับ
 
-# Fix bug can't generating
+# Fix bug can't generating test
